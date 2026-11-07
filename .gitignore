@@ -1,0 +1,14 @@
+# your photos and results stay local
+input/
+output/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# editors / macOS
+.idea/
+.vscode/
+.DS_Store
